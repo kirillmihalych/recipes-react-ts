@@ -5,4 +5,6 @@ export interface IRecipes {
 export interface IRecipe {
   idMeal: string
   strMeal: string
+  strArea: string
+  strMealThumb: string
 }

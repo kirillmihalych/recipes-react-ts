@@ -12,6 +12,11 @@
   gap: 1rem;
 }
 
-h2 {
-  background: yellow;
+.recipe-title {
+  background: orange;
+}
+
+.recipe-title:hover {
+  cursor: pointer;
+  background: green;
 }
